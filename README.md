@@ -1,5 +1,5 @@
 # firstProject
-First project to learn git
+First project to learn git and github
 <html>
 <head>
 hello
